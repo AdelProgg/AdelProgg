@@ -3,7 +3,7 @@
   <br>👋 Hi, I'm Adel Mindubaev<br>
   <br> I'm a Java Developer. <br>
   <br>
-    <img src="https://i.gifer.com/2GU.gif" alt="Coder GIF" width="500" height="400">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  </abc>
 </h3>
 
